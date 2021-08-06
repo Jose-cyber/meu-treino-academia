@@ -175,13 +175,13 @@ body {margin:0;font-family:Arial}
     margin-right: auto;
     width: 300px;
   }
-  .imgtreinoA{
+  .imgtreino{
     height: 200px;
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
-.imgtreinoA:hover{
+.imgtreino:hover{
     filter: brightness(.4);
 }
 .textimg{
