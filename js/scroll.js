@@ -5,5 +5,5 @@ $('.nav a[href^="#"]').on('click', function(e) {
 			
 	$('html, body').animate({ 
 		scrollTop: targetOffset - 100
-	}, 500);
+	}, 5000);
 });
