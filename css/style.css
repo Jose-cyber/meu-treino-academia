@@ -178,11 +178,11 @@ body {margin:0;font-family:Arial}
   .imgtreino{
     height: 200px;
     display: block;
-    margin-left: auto;
+    margin-left: 7%;
     margin-right: auto;
   }
 .imgtreino:hover{
-    filter: brightness(.4);
+    filter: brightness(.5);
 }
 .textimg{
     display: inline-block;
