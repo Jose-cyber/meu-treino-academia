@@ -74,6 +74,10 @@ body {margin:0;font-family:Arial}
 
 
 /*classes que eu criei*/
+.logostyle{
+  height: 50px;
+  border-radius: 25px;
+}
 .foto-perfil{
     border-radius: 50px;
     height: 100px;
@@ -197,5 +201,12 @@ body {margin:0;font-family:Arial}
     margin-right: auto;
     margin-top: -130px;
     width: 290px;
+}
+.logostyle{
+  position: absolute;
+  border-radius: 25px;
+  height: 45px;
+
+
 }
 }
