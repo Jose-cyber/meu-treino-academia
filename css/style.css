@@ -171,7 +171,7 @@ body {margin:0;font-family:Arial}
   }
   .displayed{
     display: block;
-    margin-left: auto;
+    margin-left: 7%;
     margin-right: auto;
     width: 300px;
   }
