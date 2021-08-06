@@ -182,7 +182,7 @@ body {margin:0;font-family:Arial}
     margin-right: auto;
   }
 .imgtreino:hover{
-    filter: brightness(.7);
+    filter: brightness(0.1);
 }
 .textimg{
     display: inline-block;
